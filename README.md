@@ -9,8 +9,7 @@ A powerful productivity dashboard with:
 - 📊 Analytics Dashboard
 
 ## 🌐 Live Demo
-https://yourusername.github.io/flux-productivity-os/
-
+https://laksh-mj.github.io/FLUX-Productivity-OS/
 ## 🛠️ Tech Stack
 - HTML
 - CSS
