@@ -23,9 +23,3 @@ https://yourusername.github.io/flux-productivity-os/
 - Focus mode
 - Beautiful UI
 - Dark/Light theme
-
-## 📸 Screenshots
-(Add screenshots later)
-
----
-Built with ❤️ by Mahalakshmi
